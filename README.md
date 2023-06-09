@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHREE RAM</h1>
 <h3 align="center">A passionate Android development enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeram800" alt="shreeram800" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/dubey_shreeram" target="blank"><img src="https://img.shields.io/twitter/follow/dubey_shreeram?logo=twitter&style=for-the-badge" alt="dubey_shreeram" /></a> </p>
 
