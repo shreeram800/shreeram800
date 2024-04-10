@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dubey_shreeram" target="blank"><img src="https://img.shields.io/twitter/follow/dubey_shreeram?logo=twitter&style=for-the-badge" alt="dubey_shreeram" /></a> </p>
 
-- 🌱 I’m currently learning **android development**
+- 🌱 I’m currently learning **JAVA FULLSTACK DEVELOPMENT**
 
-- 💬 Ask me about **java , kotlin , android, linux**
+- 💬 Ask me about **java , SPRIGN, REACT JS , NEXT JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
