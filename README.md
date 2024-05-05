@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA FULLSTACK DEVELOPMENT**
 
-- 💬 Ask me about **java , SPRIGN, REACT JS , NEXT JS**
+- 💬 Ask me about **java , SPRING , REACT JS , NEXT JS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
